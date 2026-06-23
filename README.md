@@ -706,9 +706,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-- **Email**: saurav.deshmukh@students.iiit.ac.in
+- **Email**: shubhamraut9860@gmail.com
 - **GitHub**: [@shubhamraut789]((https://github.com/shubhamraut789/geometry-sme-system))
-- **Project Link**: [[hps:tt//github.com/sauravdeshmukh100/geometry-sme](https://github.com/shubhamraut789/geometry-sme-system)]((https://github.com/shubhamraut789/geometry-sme-system))
+- **Project Link**: [[(https://github.com/shubhamraut789/geometry-sme-system)]((https://github.com/shubhamraut789/geometry-sme-system))
 
 ## 🗺️ Roadmap
 
